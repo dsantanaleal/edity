@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct simple_editorApp: App {
     var body: some Scene {
